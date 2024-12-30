@@ -4,5 +4,5 @@ plugins:
     version: 1.0.0
     url: https://github.com/lusayo-nyondo/courier_management.git
     dependencies:
-      - name: djigsaw
-        version: ">=0.0.1"
+      name: djigsaw
+      version: ">=0.0.1"
