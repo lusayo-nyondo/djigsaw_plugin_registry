@@ -1,5 +1,5 @@
 plugins:
-  - name: courier_management
+  courier_management:
     display_name: Courier Management
     version: 1.0.0
     url: https://github.com/lusayo-nyondo/courier_management.git
